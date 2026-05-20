@@ -1,15 +1,4 @@
-\`\`\`
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   SAP.DEV // v2026                       STATUS: ONLINE     │
-│                                                             │
-│   santiago arias paul                                       │
-│   computer science · tec de monterrey                       │
-│                                                             │
-│   25.6515° N, 100.2897° W            MONTERREY, MX          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-\`\`\`
+
 
 **CS student at Tec de Monterrey · I build, ship, and care about both the system and the user.**
 
@@ -48,11 +37,6 @@ backend      node + express · fastapi · spring boot · postgresql · sqlite ·
 tools        git · vercel · railway · figma · vitest
 ```
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoArias07&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ### the way i think about this
 
