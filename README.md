@@ -1,4 +1,15 @@
-
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   SAP.DEV // v2026                       STATUS: ONLINE     │
+│                                                             │
+│   santiago arias paul                                       │
+│   computer science · tec de monterrey                       │
+│                                                             │
+│   25.6515° N, 100.2897° W            MONTERREY, MX          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 **CS student at Tec de Monterrey · I build, ship, and care about both the system and the user.**
 
@@ -37,6 +48,11 @@ backend      node + express · fastapi · spring boot · postgresql · sqlite ·
 tools        git · vercel · railway · figma · vitest
 ```
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoArias07&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ### the way i think about this
 
@@ -50,18 +66,3 @@ Systems matter. Users matter more. The product is the place they meet.
 <sub>started programming in 2024 · started university in 2025 · shipped what's above in between</sub>
 
 </div>
-
-<!--
-**SantiagoArias07/SantiagoArias07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
