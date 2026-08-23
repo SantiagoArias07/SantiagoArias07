@@ -45,7 +45,7 @@ tools        git · vercel · railway · figma · vitest
 ### the way i think about this
 
 A design token is a contract. A component is a promise. A millisecond of jank is a broken one.
-Systems matter. Users matter more. The product is the place they meet.
+Systems matter. Users matter more. The product is the place they meet. 
 
 ---
 
