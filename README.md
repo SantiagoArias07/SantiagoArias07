@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # `Santiago Arias Paul`
@@ -13,7 +12,7 @@
 
 ### whoami
 
-I write code that ends up in front of real people. Three production apps deployed, one open-source platform in the works, all shipped within my first year of university. I care about the **200ms that makes a transition feel right**, the **API design that makes a codebase survivable**, and the **product decision that makes both matter**.
+I write code that ends up in front of real people. Five production apps deployed, all shipped within my first year of university. I care about the **200ms that makes a transition feel right**, the **API design that makes a codebase survivable**, and the **product decision that makes both matter**.
 
 I'm not chasing the longest GitHub streak — I'm chasing the shortest distance between an idea and something a user can open in a browser.
 
@@ -21,17 +20,18 @@ I'm not chasing the longest GitHub streak — I'm chasing the shortest distance 
 
 - 🎓 Studying Computer Science at **Tec de Monterrey** — Gallagher Foundation Scholar *(5 selected per year in Mexico)*
 - 🧠 Training algorithms in **CODEX** — Tec's high-performance competitive programming program
-- 🔨 Building **[Aula](https://github.com/SantiagoArias07/aula)** — an open-source LMS for Mexican public schools
+- 🔨 Building **[Tiza](https://github.com/SantiagoArias07/tiza)** — a digital grade book for Mexican public school teachers, in active use
 - ✉️ Open to remote / hybrid software engineering roles where craft and ambition are both on the table
 
 ### selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**WeekFive**](https://github.com/SantiagoArias07/week-five) → [`live`](https://weekfive-tec.vercel.app) | Full-stack academic management platform with weighted-priority scheduling and bilingual UI | React · TypeScript · Node · Express · SQLite · JWT |
-| [**SafeGuide**](https://github.com/SantiagoArias07/edumakers-safe-guide) | AI assistant on Mexican human-rights law, backed by 200+ verified resources | React · FastAPI · PostgreSQL · Groq AI · Vitest |
-| [**ClimateRoots**](https://github.com/SantiagoArias07/sosac-climate-roots) | Production site for SOSAC's 1,100 m² regenerated urban garden in Monterrey | Next.js 14 · TypeScript · Tailwind · Server Actions |
-| [**Aula**](https://github.com/SantiagoArias07/aula) `WIP` | Open-source LMS for underserved Mexican public institutions | Spring Boot · Java 21 · PostgreSQL · React |
+| [**FloodSense**](https://github.com/SantiagoArias07/hack-conciencia) → [`live`](https://floodsensetec.vercel.app) | Urban flood risk digital twin for CDMX — AI fills missing sensor data, hydrological model across 532 hexagons. 1st place Concienc.IA × IBM 2026, presented to ADIP | React · Leaflet · Groq AI · Open-Meteo · Vercel Serverless |
+| [**WeekFive**](https://github.com/SantiagoArias07/week-five) → [`live`](https://weekfive-tec.vercel.app) | Full-stack academic platform with weighted GPA, exam scheduling, and Pomodoro — guest sandbox, no login needed | React · TypeScript · Node · Express · Turso · JWT |
+| [**SafeGuide**](https://github.com/SantiagoArias07/edumakers-safe-guide) → [`live`](https://safeguide-edumakers.vercel.app) | AI assistant on Mexican human-rights law, 200+ verified resources, crisis detection. Built for EduMakers × Tec | React · FastAPI · PostgreSQL · Groq AI · Vitest |
+| [**Invariant**](https://github.com/platanus-build-night/platanus-build-night-26-mx-SantiagoArias07) → [`live`](https://invariant-mx.vercel.app) | Adversarial QA agent — finds business-logic bugs and auto-generates Playwright regression tests. Built with Anthropic SDK | Next.js · TypeScript · Anthropic SDK · SSE Streaming |
+| [**Tiza**](https://github.com/SantiagoArias07/tiza) → [`live`](https://tiza-mx.vercel.app) | Digital grade book for Mexican primary teachers — SEP-compliant PDFs, attendance, analytics, daily backups, offline PWA | Next.js · TypeScript · Express · PostgreSQL · jsPDF · Neon |
 
 ### stack i reach for
 
