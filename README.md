@@ -14,8 +14,6 @@
 
 I write code that ends up in front of real people. Five production apps deployed, all shipped within my first year of university. I care about the **200ms that makes a transition feel right**, the **API design that makes a codebase survivable**, and the **product decision that makes both matter**.
 
-I'm not chasing the longest GitHub streak — I'm chasing the shortest distance between an idea and something a user can open in a browser.
-
 ### currently
 
 - 🎓 Studying Computer Science at **Tec de Monterrey** — Gallagher Foundation Scholar *(5 selected per year in Mexico)*
