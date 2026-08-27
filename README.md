@@ -49,6 +49,6 @@ Systems matter. Users matter more. The product is the place they meet.
 
 <div align="center">
 
-<sub>started programming in 2024 · started university in 2025 · shipped what's above in between</sub>
+<sub>started programming in 2023 · started university in 2025 · shipped what's above in between</sub>
 
 </div>
